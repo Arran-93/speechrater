@@ -1,0 +1,12 @@
+body {
+  background-image: url("content/background.jpg") ;
+  background-repeat: no-repeat;
+  background-color: rgb(20,21,23);
+  background-position: top;
+}
+
+.Greeting{
+  text-align: center;
+  color: white;
+  padding: 30px 40px;
+}
